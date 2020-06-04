@@ -1,3 +1,3 @@
-File report_parsing.ipunb contain jupyter notebook with collecting data from Tarean reports <br>
-File Blast_results_analysis.ipunb contain jupyter notebook with analysis of local blast results
-File reads_random_selection.py contain scripts for selection part of reads (paired reads) from fasta file
+- File [**report_parsing.ipunb**](https://github.com/Alena-Gurina/Potato_repeats/blob/master/scripts/report_parsing.ipynb) contain jupyter notebook with collecting data from Tarean reports <br>
+- File [**Blast_results_analysis.ipunb**](https://github.com/Alena-Gurina/Potato_repeats/blob/master/scripts/Blast_results_analysis.ipynb) contain jupyter notebook with analysis of local blast results)
+- File [**reads_random_selection.py**](https://github.com/Alena-Gurina/Potato_repeats/blob/master/scripts/reads_random_selection.py) contain scripts for selection part of reads (paired reads) from fasta file
