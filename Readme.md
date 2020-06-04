@@ -73,9 +73,9 @@ Cluster distribution of repetitive elements
 Map with points colored by presence of one of clusters (number 4) in sample
 ![alt text][logo3]
 
-[logo3]: https://github.com/Alena-Gurina/Potato_repeats/tree/master/illustarions   "Map with points colored by presence of one of clusters (number 4) in sample"
+[logo3]: https://github.com/Alena-Gurina/Potato_repeats/blob/master/illustarions/map_cluster_4.jpg   "Map with points colored by presence of one of clusters (number 4) in sample"
 
-[It's interactive view available on](https://github.com/Alena-Gurina/Potato_repeats/blob/master/illustarions/map_kl_4.html)
+[It's interactive view available here](https://github.com/Alena-Gurina/Potato_repeats/blob/master/illustarions/map_kl_4.html)
 
 
 #### Liturature
