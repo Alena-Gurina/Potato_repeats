@@ -70,7 +70,7 @@ Cluster distribution of repetitive elements
 
 [logo2]:  https://github.com/Alena-Gurina/Potato_repeats/blob/master/illustarions/cluster_country.png "Cluster distribution of repetitive elements"
 
-Map with points colored by presence of one of clusters (number 4) in sample
+Map with points colored by presence of one of clusters (number 4) in sample. *Red - repetitive elements from these cluster absent in sample*
 ![alt text][logo3]
 
 [logo3]: https://github.com/Alena-Gurina/Potato_repeats/blob/master/illustarions/map_cluster_4.jpg   "Map with points colored by presence of one of clusters (number 4) in sample"
